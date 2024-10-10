@@ -36,7 +36,7 @@ public class Method {
         logicOperators();
         int arithResult = arithmeticOperators();
         System.out.println("Arithmetic result: " + arithResult);
-        String name = "Pablo";
+        String name = "Lucia";
         System.out.println(myCustomMessage(name));
         }
 
