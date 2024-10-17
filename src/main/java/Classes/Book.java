@@ -4,7 +4,8 @@ import com.campusdual.Utils;
 
 public class Book {
 
-    protected String title;
+    public
+    String title;
     public String author;
     public int pageNumber;
 
