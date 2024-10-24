@@ -25,7 +25,6 @@ public class FixItShop {
         s2.use();
         t2.use();
         l2.use();
-
         Device s3 = new Smartphone("Xiaomi", "11 Lite");
         IChargeable t3 = new Tablet ("IPad", "Mini 2");
         Device l3 = new Laptop ("Lenovo", "20RR");
