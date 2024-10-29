@@ -1,4 +1,4 @@
-package encapsulation;
+package com.campusdual.encapsulation;
 
 public class Vehicle {
     //Definamos atributos, como : marca, matrícula, modelo, disponibilidad para alquilar y velocidad máxima legal

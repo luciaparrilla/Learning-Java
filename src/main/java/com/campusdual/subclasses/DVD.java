@@ -1,4 +1,4 @@
-package subclasses;
+package com.campusdual.subclasses;
 
 public class DVD extends Item {
     private String director;

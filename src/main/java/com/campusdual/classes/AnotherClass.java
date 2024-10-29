@@ -1,4 +1,4 @@
-package Classes;
+package com.campusdual.classes;
 
 public class AnotherClass {
     public static void main(String[] args) {

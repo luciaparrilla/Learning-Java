@@ -1,4 +1,4 @@
-package abstractclass;
+package com.campusdual.abstractclass;
 
 public class Zoo {
     public static void main(String[] args) {

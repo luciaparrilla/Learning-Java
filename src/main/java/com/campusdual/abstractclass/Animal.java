@@ -1,4 +1,4 @@
-package abstractclass;
+package com.campusdual.abstractclass;
 
 public abstract class Animal {
     private String animalName;

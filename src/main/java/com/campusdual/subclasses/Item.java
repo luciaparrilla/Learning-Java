@@ -1,4 +1,4 @@
-package subclasses;
+package com.campusdual.subclasses;
 
 public class Item {
     private String title;

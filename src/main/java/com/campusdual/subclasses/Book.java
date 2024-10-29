@@ -1,4 +1,4 @@
-package subclasses;
+package com.campusdual.subclasses;
 
 public class Book extends Item{
     private String author;

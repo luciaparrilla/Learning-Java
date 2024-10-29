@@ -1,4 +1,4 @@
-package subclasses;
+package com.campusdual.subclasses;
 
 public class Library {
     public static void main(String[] args) {

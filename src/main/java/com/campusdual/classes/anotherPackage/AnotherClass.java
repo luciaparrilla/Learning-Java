@@ -1,6 +1,6 @@
-package Classes.anotherPackage;
+package com.campusdual.classes.anotherPackage;
 
-import Classes.Book;
+import com.campusdual.classes.Book;
 
 public class AnotherClass {
     public static void main(String[] args) {

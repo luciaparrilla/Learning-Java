@@ -1,4 +1,4 @@
-package Override;
+package com.campusdual.override;
 
 public class Vehicle {
 

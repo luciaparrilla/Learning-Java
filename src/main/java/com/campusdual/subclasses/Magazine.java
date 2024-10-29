@@ -1,4 +1,4 @@
-package subclasses;
+package com.campusdual.subclasses;
 
 public class Magazine extends Item{
     private int number;
